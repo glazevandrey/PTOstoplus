@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTOstoplus", "PTOstoplus\PTOstoplus.csproj", "{D24F998A-E134-45C4-B8E1-9ECFFC52CF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24F998A-E134-45C4-B8E1-9ECFFC52CF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24F998A-E134-45C4-B8E1-9ECFFC52CF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24F998A-E134-45C4-B8E1-9ECFFC52CF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24F998A-E134-45C4-B8E1-9ECFFC52CF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF10347-A826-4EF8-8831-D58160717AF8}
+	EndGlobalSection
+EndGlobal
